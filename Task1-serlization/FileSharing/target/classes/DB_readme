@@ -1,0 +1,71 @@
+1) Create files table using below code :
+
+CREATE TABLE files (
+  id INT NOT NULL AUTO_INCREMENT,
+  filename VARCHAR(255) NOT NULL,
+  filesize BIGINT NOT NULL,
+  data MEDIUMBLOB NOT NULL,
+  expiration_date DATE,
+  PRIMARY KEY (id)
+);
+
+2) Create two stored procedures as below :
+
+CREATE PROCEDURE save_file(
+  IN filename VARCHAR(255),
+  IN filesize BIGINT,
+  IN data MEDIUMBLOB,
+  IN expiration_date DATE
+)
+BEGIN
+  INSERT INTO files (filename, filesize, data, expiration_date)
+  VALUES (filename, filesize, data, expiration_date);
+END;
+
+CREATE PROCEDURE get_file(
+  IN id INT,
+  OUT filename VARCHAR(255),
+  OUT filesize BIGINT,
+  OUT data MEDIUMBLOB,
+  OUT expiration_date DATE
+)
+BEGIN
+  SELECT filename, filesize, data, expiration_date
+  INTO filename, filesize, data, expiration_date
+  FROM files
+  WHERE id = id;
+END;
+
+
+   +--------------+
+   |    users     |
+   +--------------+
+   | id           |
+   | username     |
+   | password_hash|
+   +--------------+
+        |
+        |
+        |
+   +--------------+
+   |    files     |
+   +--------------+
+   | id           |
+   | user_id      |
+   | name         |
+   | size         |
+   | content      |
+   | expiration_date |
+   +--------------+
+        |
+        |
+        |
+   +--------------+
+   |   FOREIGN    |
+   |     KEY      |
+   +--------------+
+   | user_id      |
+   | REFERENCES   |
+   | users(id)    |
+   +--------------+
+

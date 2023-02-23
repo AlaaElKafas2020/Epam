@@ -1,0 +1,10 @@
+The file with maximum 's' letter occurrence in C:\Windows\System32\ is: Microsoft-Windows-WindowsSystemAssessmentTool%4Operational.evtx
+Top 5 file by size in C:\Windows\System32\ :
+171298904 FMAPO64.dll
+171298904 FMAPO64.dll
+149955784 MRT.exe
+90122800 igd11dxva64.dll
+89057752 igd12dxva64.dll
+Average file size in C:\Windows\System32\ is: 403224
+Number of Files and Dirs by the first letter:
+{A=[811, 95], B=[392, 34], C=[1383, 160], D=[1114, 50], E=[622, 145], F=[549, 22], G=[137, 11], H=[891, 67], I=[864, 107], J=[39, 12], K=[332, 14], L=[326, 26], M=[4201, 285], N=[965, 130], O=[490, 11], P=[1266, 88], Q=[116, 1], R=[722, 42], S=[2050, 139], T=[584, 56], U=[444, 33], V=[294, 20], W=[1809, 77], X=[99, 28], Y=[11, 2], Z=[13, 6]}

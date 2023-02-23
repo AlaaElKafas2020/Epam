@@ -1,0 +1,6 @@
+<dataset>
+    <users>
+        <user id="1" first_name="Alaa" last_name="ElKafass" email="alaa.doe@example.com" />
+        <user id="2" first_name="Lea" last_name="Mahmoud" email="alaa.exa2@example.com" />
+    </users>
+</dataset>

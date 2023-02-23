@@ -1,0 +1,19 @@
+Pros and cons of using stored procedures compared to SQL statements stored in Java code:
+
+Pros:
+
+    Stored procedures can be faster than SQL statements because they are compiled and optimized by the DBMS.
+    Stored procedures can be more secure than SQL statements because they can be granted specific permissions and access controls.
+    Stored procedures can be easier to maintain because they are stored in the database and can be updated independently of the Java code.
+
+Cons:
+
+    Stored procedures can be more complex to write and test than SQL statements because they require knowledge of the DBMS and its programming language.
+    Stored procedures can be less portable than SQL statements because they are specific to a particular DBMS and may require modification if you switch to a different DBMS.
+    Stored procedures can be less flexible than SQL statements because they are precompiled and cannot be easily modified at runtime.
+
+Difficulties when working with large binary files:
+
+    Large binary files can take up a lot of memory and cause performance issues if not handled correctly.
+    Large binary files may need to be split into smaller chunks or streamed in order to avoid memory issues.
+    Large binary files may need to be compressed or otherwise optimized to reduce their size before storing them in the database.

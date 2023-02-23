@@ -1,0 +1,15 @@
+The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, 
+documentation, tools, and technologies in the field of web application security.
+
+
+1)Broken Access Control
+2)Cryptographic failures -> encript important data (passwords , credit card )
+MD5 is a weak algorithm and should not be used, while AES is a strong algorithm
+3)Injection (application accepts data as input and processes it as an instruction rather than just as data) (Cross side , sql)
+4)Insecure design (The error includes the exact location of an important configuration file.)
+5)Security misconfiguration (change defult password)(center of internet security CIS guideline)
+6)Vulnerable and outdated components (use unsupported or outdated tool)
+7)Identification and authentication failures
+8)Software and data integrity failures 
+9)Security logging and monitoring failures
+10)Server-side request forgery (SSRF)
