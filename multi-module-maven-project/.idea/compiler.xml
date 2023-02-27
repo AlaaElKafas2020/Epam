@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/application/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jmp-service-api" />
+        <module name="jmp-dto" />
+        <module name="jmp-cloud-bank-impl" />
+        <module name="jmp-cloud-service-impl" />
+        <module name="jmp-bank-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app" target="17" />
+      <module name="app1" target="17" />
+      <module name="application" target="17" />
+      <module name="Application" target="1.5" />
+      <module name="application1" target="1.5" />
+      <module name="untitled" target="17" />
+      <module name="untitled1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
