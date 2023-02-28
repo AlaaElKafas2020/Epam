@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>jmp</groupId>
+  <artifactId>multi-module-maven-project</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>jmp</name>
+  <modules>
+    <module>jmp-bank-api</module>
+  	<module>jmp-dto</module>
+  	<module>jmp-service-api</module>
+  	<module>jmp-cloud-bank-impl</module>
+  	<module>jmp-cloud-service-impl</module>
+      <module>application1</module>
+  </modules>
+</project>
