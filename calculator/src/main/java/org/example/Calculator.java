@@ -19,4 +19,9 @@ public class Calculator {
     public BigInteger divide(BigInteger a, BigInteger b) {
         return a.divide(b);
     }
+    // adding new change to commit
+    // adding new change to second commit
+    public void log(BigInteger result) {
+        System.out.println("Result: " + result);
+    }
 }
