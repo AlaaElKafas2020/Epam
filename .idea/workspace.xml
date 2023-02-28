@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edca331e-fe2d-4634-9584-8e2aee5d09a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Epam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/MailServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/template/Template.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/template/TemplateEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/org/example/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/.clover/clover.db-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/.clover/clover.db-teste5ts95_len62jkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/.clover/clover.db-testg7rxzm_len62ju2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/.clover/clover.db-testxlf5otbtb3nz_0_e5ts95_len62ju3.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/.clover/clover.db-testxlf5otbtb3nz_0_g7rxzm_len62ju3.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main-bak/com/epam/ld/module2/testing/Messenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main-bak/com/epam/ld/module2/testing/template/TemplateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/clover.instrumented" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/Messenger$__CLR4_4_1oolen62hzu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/Messenger$__CLR4_4_1oolen62hzu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/Messenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/Messenger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/template/TemplateGenerator$__CLR4_4_100len62hy9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/template/TemplateGenerator$__CLR4_4_100len62hy9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/main/com/epam/ld/module2/testing/template/TemplateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test-bak/com/epam/ld/module2/testing/template/MessengerTest$FileModeTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test-bak/com/epam/ld/module2/testing/template/MessengerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test-bak/com/epam/ld/module2/testing/template/TemplateGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/clover.instrumented" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/MessengerTest$FileModeTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/MessengerTest$__CLR4_4_12323len62iag$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/MessengerTest$__CLR4_4_12323len62iag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/MessengerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/TemplateGeneratorTest$__CLR4_4_11k1klen62i7v$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/TemplateGeneratorTest$__CLR4_4_11k1klen62i7v.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/classes/java/test/com/epam/ld/module2/testing/template/TemplateGeneratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/classes/com.epam.ld.module2.testing.template.MessengerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/reports/tests/test/packages/com.epam.ld.module2.testing.template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/resources/test/MessageFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/resources/test/template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/test-results/test/TEST-com.epam.ld.module2.testing.template.MessengerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/src/test/java/com/epam/ld/module2/testing/template/MessengerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/src/test/java/com/epam/ld/module2/testing/template/MessengerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/src/test/resources/MessageFile" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/src/test/resources/MessageFile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MNgSpHvbZXF9jvmCTAYBmjV7eM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/AlaaEssam/Desktop/EpamTasks/Epam"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edca331e-fe2d-4634-9584-8e2aee5d09a5" name="Changes" comment="" />
+      <created>1677613464949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677613464949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
