@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
@@ -9,5 +10,12 @@
         <module name="calculator" />
       </profile>
     </annotationProcessing>
+  </component>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="calculator" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
