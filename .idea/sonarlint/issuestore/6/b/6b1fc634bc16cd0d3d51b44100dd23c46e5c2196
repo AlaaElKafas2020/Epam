@@ -1,0 +1,12 @@
+
+^
+java:S18542"CRemove this useless assignment to local variable "capturedRequest".(¢ĞÃÙüÿÿÿÿ
+R
+java:S1854,"<Remove this useless assignment to local variable "response".(Â¶ó
+C
+java:S1481,"-Remove this unused "response" local variable.(Â¶ó
+Q	java:S125-"<This block of commented-out lines of code should be removed.(æœÜÛ
+V	java:S1251"<This block of commented-out lines of code should be removed.(âğÅúÿÿÿÿÿ
+O
+java:S14812"4Remove this unused "capturedRequest" local variable.(¢ĞÃÙüÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(‘ü¯Ğüÿÿÿÿ
